@@ -1,2 +1,2 @@
 # ResinCounter
-Genshin Impact Resin Counter/Resin Tracker
+Just a simple resin counter for Genshin Impact built using pyqt5
